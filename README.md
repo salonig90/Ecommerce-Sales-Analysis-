@@ -26,7 +26,7 @@ This project addresses these issues through interactive visualizations and actio
 - **Visualization Techniques** – Bar charts, pie charts, KPIs, and slicers for interactivity  
 
 ## 📊 Dashboard Preview  
-![E-commerce Sales Dashboard](Screenshot%20(46).png)  
+![E-commerce Sales Dashboard](Sales_dashboard.png)  
 
 ## 📈 Results / Key Insights  
 - **Revenue:** ₹438K with ₹37K profit and 121K AOV  
